@@ -1,5 +1,4 @@
-# T.A.I - Terminal with Artificial Intelligence
-# <a><img src="./assets/tai-logo.png" height="64" valign="top" /></a> toyDB
+# <a><img src="./assets/tai-logo.png" height="64" valign="top" /></a> T.A.I - Terminal with Artificial Intelligence
 
 [![Security Audit](https://github.com/waldirborbajr/tai/actions/workflows/audit.yaml/badge.svg)](https://github.com/waldirborbajr/tai/actions/workflows/audit.yaml)
 [![Lint](https://github.com/waldirborbajr/tai/actions/workflows/linter.yaml/badge.svg)](https://github.com/waldirborbajr/tai/actions/workflows/linter.yaml)
