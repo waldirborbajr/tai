@@ -6,5 +6,5 @@
 [![Release](https://github.com/waldirborbajr/tai/actions/workflows/release.yaml/badge.svg)](https://github.com/waldirborbajr/tai/actions/workflows/release.yaml)
 [![Release to crates.io](https://github.com/waldirborbajr/tai/actions/workflows/crates.yaml/badge.svg)](https://github.com/waldirborbajr/tai/actions/workflows/crates.yaml)
 
-<img loading="lazy" width="50%" src="./assets/tai-logo.png" alt="T.A.I Logo" />
+<img loading="lazy" width="25%" src="./assets/tai-logo.png" alt="T.A.I Logo" />
 
