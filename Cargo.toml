@@ -22,8 +22,9 @@ lto = true
 codegen-units = 1
 panic = "abort"
 strip = true
+opt-level = 'z'   # only have smaller size after strip
+rpath = true
 debug = false
-opt-level = 'z'   # Optimize for size
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

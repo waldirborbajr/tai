@@ -1,3 +1,7 @@
+mod about;
+mod version;
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}", about::about());
+    println!("{}", version::show_version());
 }
